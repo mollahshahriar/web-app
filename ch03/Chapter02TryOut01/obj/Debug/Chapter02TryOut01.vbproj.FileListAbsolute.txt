@@ -1,0 +1,120 @@
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\Chapter02TryOut01.dll.config
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\Chapter02TryOut01.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\Chapter02TryOut01.pdb
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\Chapter02TryOut01.xml
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\csc.exe
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\csc.exe.config
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\csc.rsp
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\csi.exe
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\csi.rsp
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\System.AppContext.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\System.Collections.Immutable.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\System.IO.FileSystem.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\System.Reflection.Metadata.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\vbc.exe
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\vbc.exe.config
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\vbc.rsp
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\VBCSCompiler.exe
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\roslyn\VBCSCompiler.exe.config
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\Antlr3.Runtime.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\Microsoft.Web.Infrastructure.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\Newtonsoft.Json.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\System.Web.Helpers.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\System.Web.Mvc.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\System.Web.Optimization.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\System.Web.Razor.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\System.Web.WebPages.Deployment.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\System.Web.WebPages.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\System.Web.WebPages.Razor.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\WebGrease.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\System.Web.Helpers.xml
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\System.Web.Mvc.xml
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\System.Web.Optimization.xml
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\System.Web.Razor.xml
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\System.Web.WebPages.xml
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\System.Web.WebPages.Deployment.xml
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\System.Web.WebPages.Razor.xml
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\Newtonsoft.Json.xml
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\Antlr3.Runtime.pdb
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.vbprojAssemblyReference.cache
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.Resources.resources
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.vbproj.GenerateResource.cache
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.vbproj.CoreCompileInputs.cache
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.vbproj.CopyComplete
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.dll
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.xml
+E:\IBT\Developing Web Applications\Chapter03TryOut01\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.pdb
+F:\web app\ch03\Chapter02TryOut01\bin\Chapter02TryOut01.dll.config
+F:\web app\ch03\Chapter02TryOut01\bin\Chapter02TryOut01.dll
+F:\web app\ch03\Chapter02TryOut01\bin\Chapter02TryOut01.pdb
+F:\web app\ch03\Chapter02TryOut01\bin\Chapter02TryOut01.xml
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\csc.exe
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\csc.exe.config
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\csc.rsp
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\csi.exe
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\csi.rsp
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\System.AppContext.dll
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\System.Collections.Immutable.dll
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\System.IO.FileSystem.dll
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\System.Reflection.Metadata.dll
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\vbc.exe
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\vbc.exe.config
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\vbc.rsp
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\VBCSCompiler.exe
+F:\web app\ch03\Chapter02TryOut01\bin\roslyn\VBCSCompiler.exe.config
+F:\web app\ch03\Chapter02TryOut01\bin\Antlr3.Runtime.dll
+F:\web app\ch03\Chapter02TryOut01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\web app\ch03\Chapter02TryOut01\bin\Microsoft.Web.Infrastructure.dll
+F:\web app\ch03\Chapter02TryOut01\bin\Newtonsoft.Json.dll
+F:\web app\ch03\Chapter02TryOut01\bin\System.Web.Helpers.dll
+F:\web app\ch03\Chapter02TryOut01\bin\System.Web.Mvc.dll
+F:\web app\ch03\Chapter02TryOut01\bin\System.Web.Optimization.dll
+F:\web app\ch03\Chapter02TryOut01\bin\System.Web.Razor.dll
+F:\web app\ch03\Chapter02TryOut01\bin\System.Web.WebPages.Deployment.dll
+F:\web app\ch03\Chapter02TryOut01\bin\System.Web.WebPages.dll
+F:\web app\ch03\Chapter02TryOut01\bin\System.Web.WebPages.Razor.dll
+F:\web app\ch03\Chapter02TryOut01\bin\WebGrease.dll
+F:\web app\ch03\Chapter02TryOut01\bin\System.Web.Helpers.xml
+F:\web app\ch03\Chapter02TryOut01\bin\System.Web.Mvc.xml
+F:\web app\ch03\Chapter02TryOut01\bin\System.Web.Optimization.xml
+F:\web app\ch03\Chapter02TryOut01\bin\System.Web.Razor.xml
+F:\web app\ch03\Chapter02TryOut01\bin\System.Web.WebPages.xml
+F:\web app\ch03\Chapter02TryOut01\bin\System.Web.WebPages.Deployment.xml
+F:\web app\ch03\Chapter02TryOut01\bin\System.Web.WebPages.Razor.xml
+F:\web app\ch03\Chapter02TryOut01\bin\Newtonsoft.Json.xml
+F:\web app\ch03\Chapter02TryOut01\bin\Antlr3.Runtime.pdb
+F:\web app\ch03\Chapter02TryOut01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\web app\ch03\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.vbprojAssemblyReference.cache
+F:\web app\ch03\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.Resources.resources
+F:\web app\ch03\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.vbproj.GenerateResource.cache
+F:\web app\ch03\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.vbproj.CoreCompileInputs.cache
+F:\web app\ch03\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.vbproj.CopyComplete
+F:\web app\ch03\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.dll
+F:\web app\ch03\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.xml
+F:\web app\ch03\Chapter02TryOut01\obj\Debug\Chapter02TryOut01.pdb
